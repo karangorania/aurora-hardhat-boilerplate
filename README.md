@@ -89,7 +89,7 @@ Deploy
   node scripts/deploy.js
 ```
 
-Deploy on Ropsten
+Deploy on Aurora
 
 ```bash
   npx hardhat run scripts/deploy.js --network aurora_testnet
